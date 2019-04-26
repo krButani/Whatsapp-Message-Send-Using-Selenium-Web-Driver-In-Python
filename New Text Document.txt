@@ -1,0 +1,3 @@
+pyinstaller  --add-binary  "chromedriver.exe;tes/." --console window.py 
+
+-- create setup and add chromedriver.exe
